@@ -20,5 +20,10 @@ This project was completed as part of the IS3001: Sampling Techniques course at 
 - Regression Estimation provided the most precise estimates across all sampling designs
 - Two-stage cluster sampling had the lowest standard errors
 
-## 📁 Project Structure
+## 👨‍💻 Authors
+- Shashin Prabath 
+- Kavithi Wijesekara 
+- Dewmi Yasarathne 
+- Theekshana Yatawathura 
+
 
