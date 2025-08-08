@@ -1,4 +1,4 @@
-# 🪑 Furniture Sales Data Analysis - IS3001 Group Project
+# 🪑 Furniture Sales Random Sampling Data Analysis -  Group Project
 
 This project was completed as part of the IS3001: Sampling Techniques course at the University of Colombo, Faculty of Science. Our objective was to explore and compare different sampling methods for analyzing a real-world dataset of furniture sales.
 
